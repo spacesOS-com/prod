@@ -31,8 +31,12 @@ msgid "Confirm your email address"
 msgstr "Potvrďte svou e-mailovou adresu"
 
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Připojte se k Twenty"
+msgid "Connect to Spaces"
+msgstr ""
+
+#: src/emails/password-update-notify.email.tsx
+#~ msgid "Connect to Twenty"
+#~ msgstr "Připojte se k Twenty"
 
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Create a new workspace"
@@ -87,8 +91,12 @@ msgid "It appears that your workspace <0>{workspaceDisplayName}</0> has been sus
 msgstr "Zdá se, že váš pracovní prostor <0>{workspaceDisplayName}</0> byl pozastaven na dobu {daysSinceInactive} dní."
 
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Připojte se k svému týmu na Twenty"
+msgid "Join your team on Spaces"
+msgstr ""
+
+#: src/emails/send-invite-link.email.tsx
+#~ msgid "Join your team on Twenty"
+#~ msgstr "Připojte se k svému týmu na Twenty"
 
 #: src/emails/password-update-notify.email.tsx
 msgid "Password updated"
@@ -115,8 +123,12 @@ msgid "Suspended Workspace "
 msgstr "Pozastavený pracovní prostor "
 
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
-msgstr "Děkujeme za registraci účtu na Twenty! Než začneme, musíme potvrdit, že jste to vy. Klikněte výše k ověření vaší e-mailové adresy."
+msgid "Thanks for registering for an account on Spaces! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
+msgstr ""
+
+#: src/emails/send-email-verification-link.email.tsx
+#~ msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
+#~ msgstr "Děkujeme za registraci účtu na Twenty! Než začneme, musíme potvrdit, že jste to vy. Klikněte výše k ověření vaší e-mailové adresy."
 
 #: src/emails/warn-suspended-workspace.email.tsx
 msgid "The workspace will be deactivated in {remainingDays} {dayOrDays}, and all its data will be deleted."

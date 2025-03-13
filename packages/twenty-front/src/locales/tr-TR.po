@@ -485,8 +485,12 @@ msgid "Book a Call"
 msgstr "\"Twenty\"'yi kullanarak"
 
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
-msgid "By using Twenty, you agree to the"
-msgstr "Twenty'i kullanarak,"
+msgid "By using Spaces, you agree to the"
+msgstr ""
+
+#: src/modules/auth/sign-in-up/components/FooterNote.tsx
+#~ msgid "By using Twenty, you agree to the"
+#~ msgstr "Twenty'i kullanarak,"
 
 #: src/modules/object-record/record-table/record-table-footer/components/RecordTableColumnAggregateFooterValue.tsx
 msgid "Calculate"
@@ -1526,8 +1530,12 @@ msgid "Go to Settings"
 msgstr "Ayarlar'a Git"
 
 #: src/pages/settings/SettingsWorkspace.tsx
-msgid "Grant Twenty support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time."
-msgstr "Sorunları gidermemizi veya adınıza içerikleri kurtarmamızı sağlayacak şekilde Twenty destek ekibine çalışma alanınızda geçici olarak erişim izni verin. İstediğiniz zaman erişimi iptal edebilirsiniz."
+msgid "Grant Spaces support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time."
+msgstr ""
+
+#: src/pages/settings/SettingsWorkspace.tsx
+#~ msgid "Grant Twenty support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time."
+#~ msgstr "Sorunları gidermemizi veya adınıza içerikleri kurtarmamızı sağlayacak şekilde Twenty destek ekibine çalışma alanınızda geçici olarak erişim izni verin. İstediğiniz zaman erişimi iptal edebilirsiniz."
 
 #: src/modules/settings/playground/components/PlaygroundSetupForm.tsx
 msgid "GraphQL"

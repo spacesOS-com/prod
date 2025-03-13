@@ -31,8 +31,12 @@ msgid "Confirm your email address"
 msgstr "Bevestig uw e-mailadres"
 
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "Verbinden met Twenty"
+msgid "Connect to Spaces"
+msgstr ""
+
+#: src/emails/password-update-notify.email.tsx
+#~ msgid "Connect to Twenty"
+#~ msgstr "Verbinden met Twenty"
 
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Create a new workspace"
@@ -87,8 +91,12 @@ msgid "It appears that your workspace <0>{workspaceDisplayName}</0> has been sus
 msgstr "Het lijkt erop dat uw werkruimte <0>{workspaceDisplayName}</0> al voor {daysSinceInactive} dagen is opgeschort."
 
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "Sluit je aan bij je team op Twenty"
+msgid "Join your team on Spaces"
+msgstr ""
+
+#: src/emails/send-invite-link.email.tsx
+#~ msgid "Join your team on Twenty"
+#~ msgstr "Sluit je aan bij je team op Twenty"
 
 #: src/emails/password-update-notify.email.tsx
 msgid "Password updated"
@@ -115,8 +123,12 @@ msgid "Suspended Workspace "
 msgstr "Opgeschorte werkruimte "
 
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
-msgstr "Bedankt voor uw registratie voor een account op Twenty! Voordat we beginnen, moeten we gewoon bevestigen dat dit u bent. Klik hierboven om uw e-mailadres te verifiëren."
+msgid "Thanks for registering for an account on Spaces! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
+msgstr ""
+
+#: src/emails/send-email-verification-link.email.tsx
+#~ msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
+#~ msgstr "Bedankt voor uw registratie voor een account op Twenty! Voordat we beginnen, moeten we gewoon bevestigen dat dit u bent. Klik hierboven om uw e-mailadres te verifiëren."
 
 #: src/emails/warn-suspended-workspace.email.tsx
 msgid "The workspace will be deactivated in {remainingDays} {dayOrDays}, and all its data will be deleted."

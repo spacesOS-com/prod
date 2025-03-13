@@ -983,8 +983,12 @@ msgid "Job Title"
 msgstr "Título del puesto"
 
 #: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
-msgid "Join your team on Twenty"
-msgstr "Únete a tu equipo en Twenty"
+msgid "Join your team on Spaces"
+msgstr ""
+
+#: src/engine/core-modules/workspace-invitation/services/workspace-invitation.service.ts
+#~ msgid "Join your team on Twenty"
+#~ msgstr "Únete a tu equipo en Twenty"
 
 #: src/modules/timeline/standard-objects/behavioral-event.workspace-entity.ts
 #: src/modules/timeline/standard-objects/audit-log.workspace-entity.ts

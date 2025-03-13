@@ -31,8 +31,12 @@ msgid "Confirm your email address"
 msgstr "确认您的邮箱地址"
 
 #: src/emails/password-update-notify.email.tsx
-msgid "Connect to Twenty"
-msgstr "连接 Twenty"
+msgid "Connect to Spaces"
+msgstr ""
+
+#: src/emails/password-update-notify.email.tsx
+#~ msgid "Connect to Twenty"
+#~ msgstr "连接 Twenty"
 
 #: src/emails/clean-suspended-workspace.email.tsx
 msgid "Create a new workspace"
@@ -87,8 +91,12 @@ msgid "It appears that your workspace <0>{workspaceDisplayName}</0> has been sus
 msgstr "您的工作区 <0>{workspaceDisplayName}</0> 已被暂停 {daysSinceInactive} 天。"
 
 #: src/emails/send-invite-link.email.tsx
-msgid "Join your team on Twenty"
-msgstr "加入您的团队，使用 Twenty"
+msgid "Join your team on Spaces"
+msgstr ""
+
+#: src/emails/send-invite-link.email.tsx
+#~ msgid "Join your team on Twenty"
+#~ msgstr "加入您的团队，使用 Twenty"
 
 #: src/emails/password-update-notify.email.tsx
 msgid "Password updated"
@@ -115,8 +123,12 @@ msgid "Suspended Workspace "
 msgstr "暂停的工作空间 "
 
 #: src/emails/send-email-verification-link.email.tsx
-msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
-msgstr "感谢您在 Twenty 注册账户！在开始之前，我们只需确认是您本人。请点击上方验证您的邮箱地址。"
+msgid "Thanks for registering for an account on Spaces! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
+msgstr ""
+
+#: src/emails/send-email-verification-link.email.tsx
+#~ msgid "Thanks for registering for an account on Twenty! Before we get started, we just need to confirm that this is you. Click above to verify your email address."
+#~ msgstr "感谢您在 Twenty 注册账户！在开始之前，我们只需确认是您本人。请点击上方验证您的邮箱地址。"
 
 #: src/emails/warn-suspended-workspace.email.tsx
 msgid "The workspace will be deactivated in {remainingDays} {dayOrDays}, and all its data will be deleted."

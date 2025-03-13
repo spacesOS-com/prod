@@ -485,8 +485,12 @@ msgid "Book a Call"
 msgstr "Hívás foglalása"
 
 #: src/modules/auth/sign-in-up/components/FooterNote.tsx
-msgid "By using Twenty, you agree to the"
-msgstr "A Twenty használatával elfogadja a"
+msgid "By using Spaces, you agree to the"
+msgstr ""
+
+#: src/modules/auth/sign-in-up/components/FooterNote.tsx
+#~ msgid "By using Twenty, you agree to the"
+#~ msgstr "A Twenty használatával elfogadja a"
 
 #: src/modules/object-record/record-table/record-table-footer/components/RecordTableColumnAggregateFooterValue.tsx
 msgid "Calculate"
@@ -1526,8 +1530,12 @@ msgid "Go to Settings"
 msgstr "Ugrás a beállításokhoz"
 
 #: src/pages/settings/SettingsWorkspace.tsx
-msgid "Grant Twenty support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time."
-msgstr "Adj ideiglenes hozzáférést a Twenty támogatásának a munkaterületedhez, hogy képesek legyünk hibaelhárítást végezni, vagy tartalmat helyreállítani az Ön nevében. A hozzáférést bármikor visszavonhatja."
+msgid "Grant Spaces support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time."
+msgstr ""
+
+#: src/pages/settings/SettingsWorkspace.tsx
+#~ msgid "Grant Twenty support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time."
+#~ msgstr "Adj ideiglenes hozzáférést a Twenty támogatásának a munkaterületedhez, hogy képesek legyünk hibaelhárítást végezni, vagy tartalmat helyreállítani az Ön nevében. A hozzáférést bármikor visszavonhatja."
 
 #: src/modules/settings/playground/components/PlaygroundSetupForm.tsx
 msgid "GraphQL"
