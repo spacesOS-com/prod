@@ -46,7 +46,7 @@ const StyledPrimaryLogo = styled.div<{ src: string }>`
 `;
 
 export const Logo = (props: LogoProps) => {
-  const defaultPrimaryLogoUrl = `${window.location.origin}/icons/android/android-launchericon-192-192.png`;
+  const defaultPrimaryLogoUrl = `${window.location.origin}/logos/spaces-192.png`;
 
   const primaryLogoUrl = getImageAbsoluteURI({
     imageUrl: props.primaryLogo ?? defaultPrimaryLogoUrl,

@@ -24,7 +24,7 @@ export const SendEmailVerificationLinkEmail = ({
       <br />
       <MainText>
         <Trans>
-          Thanks for registering for an account on Twenty! Before we get
+          Thanks for registering for an account on Spaces! Before we get
           started, we just need to confirm that this is you. Click above to
           verify your email address.
         </Trans>

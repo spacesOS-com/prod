@@ -38,7 +38,7 @@ export const SendInviteLinkEmail = ({
 
   return (
     <BaseEmail width={333} locale={locale}>
-      <Title value={<Trans>Join your team on Twenty</Trans>} />
+      <Title value={<Trans>Join your team on Spaces</Trans>} />
       <MainText>
         {capitalize(sender.firstName)} (
         <Link

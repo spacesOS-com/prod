@@ -5,10 +5,9 @@ import { SubTitle } from 'src/components/SubTitle';
 export const WhatIsTwenty = () => {
   return (
     <>
-      <SubTitle value="What is Twenty?" />
+      <SubTitle value="What is Spaces" />
       <MainText>
-        It's a CRM, a software to help businesses manage their customer data and
-        relationships efficiently.
+       AI-first CRM that helps financial advisors manage their customer data and relationships efficiently.
       </MainText>
       <Footer />
     </>

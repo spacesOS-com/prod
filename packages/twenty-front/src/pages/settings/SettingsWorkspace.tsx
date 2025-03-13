@@ -70,7 +70,7 @@ export const SettingsWorkspace = () => {
               <H2Title
                 title={t`Support`}
                 adornment={<ToggleImpersonate />}
-                description={t`Grant Twenty support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time.`}
+                description={t`Grant Spaces support temporary access to your workspace so we can troubleshoot problems or recover content on your behalf. You can revoke access at any time.`}
               />
             </Section>
           </>

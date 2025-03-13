@@ -9,46 +9,37 @@ export const Footer = () => {
         <Column>
           <ShadowText>
             <Link
-              href="https://twenty.com/"
+              href="https://spaces.com/"
               value="Website"
-              aria-label="Visit Twenty's website"
+              aria-label="Visit Spaces's website"
             />
           </ShadowText>
         </Column>
         <Column>
           <ShadowText>
             <Link
-              href="https://github.com/twentyhq/twenty"
-              value="Github"
-              aria-label="Visit Twenty's GitHub repository"
+              href="https://www.linkedin.com/company/spacesos"
+              value="LinkedIn"
+              aria-label="Visit Spaces's LinkedIn"
             />
           </ShadowText>
         </Column>
         <Column>
           <ShadowText>
             <Link
-              href="https://twenty.com/user-guide"
-              value="User guide"
-              aria-label="Read Twenty's user guide"
-            />
-          </ShadowText>
-        </Column>
-        <Column>
-          <ShadowText>
-            <Link
-              href="https://docs.twenty.com/"
-              value="Developers"
-              aria-label="Visit Twenty's developer documentation"
+              href="https://x.com/Spaces_OS"
+              value="Twitter/X"
+              aria-label="Visit Spaces's Twitter"
             />
           </ShadowText>
         </Column>
       </Row>
       <ShadowText>
-        Twenty.com Public Benefit Corporation
+        SpacesOS Inc.
         <br />
-        2261 Market Street #5275
+        20th Street, San Francisco
         <br />
-        San Francisco, CA 94114
+        California, United States
       </ShadowText>
     </>
   );
