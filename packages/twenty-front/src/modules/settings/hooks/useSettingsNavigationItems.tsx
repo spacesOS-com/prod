@@ -144,7 +144,7 @@ const useSettingsNavigationItems = (): SettingsNavigationSection[] => {
           label: t`Integrations`,
           path: SettingsPath.Integrations,
           Icon: IconApps,
-          isHidden: !permissionMap[SettingsPermissions.API_KEYS_AND_WEBHOOKS],
+          isHidden: true,
         },
         {
           label: t`Security`,
@@ -195,14 +195,13 @@ const useSettingsNavigationItems = (): SettingsNavigationSection[] => {
           label: t`Lab`,
           path: SettingsPath.Lab,
           Icon: IconFlask,
-          isHidden:
-            !labPublicFeatureFlags.length ||
-            !permissionMap[SettingsPermissions.WORKSPACE],
+          isHidden: true,
         },
         {
           label: t`Releases`,
           path: SettingsPath.Releases,
           Icon: IconRocket,
+          isHidden: true,
         },
         {
           label: t`Logout`,
